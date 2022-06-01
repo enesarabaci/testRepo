@@ -4,103 +4,103 @@
       "action": 1,
       "actionName": "V. Aboubakar",
       "time": "04'",
-      "playerTime": "03:55"
+      "playerTime": 235
     },
     {
       "action": 2,
       "actionName": "M. Tisserand",
       "time": "15'",
-      "playerTime": "14:30"
+      "playerTime": 870
     },
     {
       "action": 1,
       "actionName": "V. Aboubakar",
       "time": "20'",
-      "playerTime": "19:49"
+      "playerTime": 1189
     },
     {
       "action": 2,
       "actionName": "C. Larin",
       "time": "25'",
-      "playerTime": "23:48"
+      "playerTime": 1428
     },
     {
       "action": 1,
       "actionName": "P. Cissé",
       "time": "34'",
-      "playerTime": "33:39"
+      "playerTime": 2019
     },
     {
       "action": 2,
       "actionName": "D. Pelkas",
       "time": "38'",
-      "playerTime": "37:38"
+      "playerTime": 2258
     },
     {
       "action": 4,
       "actionName": "C. Larin",
       "time": "50'",
-      "playerTime": "54:13"
+      "playerTime": 3253
     },
     {
       "action": 2,
       "actionName": "M. Yandaş",
       "time": "53'",
-      "playerTime": "56:50"
+      "playerTime": 3410
     },
     {
       "action": 1,
       "actionName": "N. Uysal",
       "time": "53'",
-      "playerTime": "57:30"
+      "playerTime": 3450
     },
     {
       "action": 2,
       "actionName": "L. Gustavo",
       "time": "63'",
-      "playerTime": "67:10"
+      "playerTime": 4030
     },
     {
       "action": 1,
       "actionName": "O. Tufan",
       "time": "68'",
-      "playerTime": "72:27"
+      "playerTime": 4347
     },
     {
       "action": 1,
       "actionName": "F. N'Sakala",
       "time": "88'",
-      "playerTime": "91:55"
+      "playerTime": 5515
     },
     {
       "action": 2,
       "actionName": "O. Tufan",
       "time": "90'",
-      "playerTime": "93:40"
+      "playerTime": 5620
     },
     {
       "action": 2,
       "actionName": "V. Rosier",
       "time": "90'",
-      "playerTime": "93:40"
+      "playerTime": 5620
     },
     {
       "action": 5,
       "actionName": "Penaltı",
       "time": "90+5'",
-      "playerTime": "100:22"
+      "playerTime": 6022
     },
     {
       "action": 1,
       "actionName": "O. Tufan",
       "time": "90+7'",
-      "playerTime": "101:00"
+      "playerTime": 6060
     },
     {
       "action": 2,
       "actionName": "J. Souza",
       "time": "90+9'",
-      "playerTime": "101:49"
+      "playerTime": 6109
     }
   ]
 }
