@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "action": 1,
+      "actionName": "V. Aboubakar",
+      "time": "04'",
+      "playerTime": "03:55"
+    },
+    {
+      "action": 2,
+      "actionName": "M. Tisserand",
+      "time": "15'",
+      "playerTime": "14:30"
+    },
+    {
+      "action": 1,
+      "actionName": "V. Aboubakar",
+      "time": "20'",
+      "playerTime": "19:49"
+    },
+    {
+      "action": 2,
+      "actionName": "C. Larin",
+      "time": "25'",
+      "playerTime": "23:48"
+    },
+    {
+      "action": 1,
+      "actionName": "P. Cissé",
+      "time": "34'",
+      "playerTime": "33:39"
+    },
+    {
+      "action": 2,
+      "actionName": "D. Pelkas",
+      "time": "38'",
+      "playerTime": "37:38"
+    },
+    {
+      "action": 4,
+      "actionName": "C. Larin",
+      "time": "50'",
+      "playerTime": "54:13"
+    },
+    {
+      "action": 2,
+      "actionName": "M. Yandaş",
+      "time": "53'",
+      "playerTime": "56:50"
+    },
+    {
+      "action": 1,
+      "actionName": "N. Uysal",
+      "time": "53'",
+      "playerTime": "57:30"
+    },
+    {
+      "action": 2,
+      "actionName": "L. Gustavo",
+      "time": "63'",
+      "playerTime": "67:10"
+    },
+    {
+      "action": 1,
+      "actionName": "O. Tufan",
+      "time": "68'",
+      "playerTime": "72:27"
+    },
+    {
+      "action": 1,
+      "actionName": "F. N'Sakala",
+      "time": "88'",
+      "playerTime": "91:55"
+    },
+    {
+      "action": 2,
+      "actionName": "O. Tufan",
+      "time": "90'",
+      "playerTime": "93:40"
+    },
+    {
+      "action": 2,
+      "actionName": "V. Rosier",
+      "time": "90'",
+      "playerTime": "93:40"
+    },
+    {
+      "action": 5,
+      "actionName": "Penaltı",
+      "time": "90+5'",
+      "playerTime": "100:22"
+    },
+    {
+      "action": 1,
+      "actionName": "O. Tufan",
+      "time": "90+7'",
+      "playerTime": "101:00"
+    },
+    {
+      "action": 2,
+      "actionName": "J. Souza",
+      "time": "90+9'",
+      "playerTime": "101:49"
+    }
+  ]
+}
